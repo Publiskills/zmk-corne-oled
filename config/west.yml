@@ -4,8 +4,8 @@ manifest:
       url-base: https://github.com/zmkfirmware
     - name: mctechnology17
       url-base: https://github.com/mctechnology17
-    - name: eyelash
-      url-base: https://github.com/a741725193
+    - name: publiskills
+      url-base: https://github.com/publiskills
   projects:
     - name: zmk
       remote: zmkfirmware
@@ -15,7 +15,7 @@ manifest:
       remote: mctechnology17
       revision: main
     - name: zmk-board-eyelash
-      remote: eyelash
+      remote: publiskills
       revision: main
   self:
     path: config
