@@ -1,7 +1,7 @@
 if SHIELD_EYELASH_CORNE_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "FabW Corne V2"
+    default "Eyelash Corne"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
